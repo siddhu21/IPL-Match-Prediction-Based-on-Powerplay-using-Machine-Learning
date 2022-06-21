@@ -5,5 +5,5 @@
 #### 3. I have tried using Random Forest, XGBOOST Classifier, XGBoost Classifer with Random Forest applying GridSearchCV technique.
 #### 4. Out of all these models, XGBoost with Random Forest Classifier worked well with accuracy of 72%.
 #### 5. We can improve the performance of this model if we have few more data as I considered only consistent teams who had wins more than 50.
-#### 6. Right now, I just build the model. I am in the process to deploy the model. Hope it works well. :) :D
-#### THANK YOU. 
+#### 6. Right now, I just build the model. I am in the process to deploy the model. Hope it works well. :laughing: :satisfied:
+#### THANK YOU
